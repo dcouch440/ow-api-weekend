@@ -1,7 +1,7 @@
 # Weekend practice
-#### *Created By: David Couch
+#### *Created By: David Couch*
 
-#### *This is weekend practice for school.
+#### *This is weekend practice for school.*
 * * *
 
 ## Description  
